@@ -1,0 +1,22 @@
+
+/* Parece un caramelo de azúcar */
+/* .title{
+  text-align: center;
+  font-size: 3rem;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073,
+      0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+} */
+
+header.title {
+  margin-top: 3rem;
+  font-size: 3rem;
+  transform: scaleY(1.65);
+  font-weight: 900;
+  color: transparent;
+  background: linear-gradient(to left, #a104ad, #0b2be0, #329941, #eeee19, #f16412, #e92153, #aa04a7);
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 0.016em #eaeaea;
+  -webkit-background-clip: text;
+  background-clip: text;
+  letter-spacing: 0.1rem;
+}
